@@ -1,0 +1,21 @@
+{
+  "name": "demondoor-bot",
+  "version": "1.0.0",
+  "description": "A chat bot for Discord, made by the Fable Community.",
+  "main": "index.js",
+  "scripts": {
+    "test": "/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/"
+  },
+  "author": "Shelob",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  },
+  "engines": {
+    "node": "14.18.0"
+  }
+}
