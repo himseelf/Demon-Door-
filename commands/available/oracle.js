@@ -15,7 +15,7 @@ module.exports.help = {
     name: "oracle",
     aliases: ["answer", "book"],
     category: "available",
-    description: "Return the list of good answers for the riddle command.",
+    description: "Return the list of good answers for the riddle command.", // i should precise only admin can use this
     cooldown: 10,
     usage: "",
     isUserAdmin: false,
