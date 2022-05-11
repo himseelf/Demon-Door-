@@ -45,7 +45,7 @@ loadEvents();
 
 client.login(TOKEN);
 
-//Welcome/leave improved, randomized and membercount
+//Welcome/leave improved, randomized and Fable related
 client.on("guildMemberAdd", member =>{
 
     const channel = member.guild.channels.cache.find(x => x.name === "general-chat")
