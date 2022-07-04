@@ -6,3 +6,5 @@ A Fable related BOT for Discord.
 -Made using discord.js from NodeJS.
 
 -You will need to create a file with a unique TOKEN inside if you want to run your own instance of the bot, when its done, use `npm i` in the terminal to install the NodeJS modules. Finally type `node index.js` to start the BOT.
+
+/!\ This github wont be updated with the latest features. You can still contact me (himseelf) in case there is any question, i will answer if i get time.
